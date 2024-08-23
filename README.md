@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm a PHP & Laravel developer at SpaceSecurity, with a strong passion for web development. I specialize in both frontend technologies and backend development with PHP Laravel.
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=seadawy&style=flat&color=blue" alt="Profile Views" />
 </p>
 
