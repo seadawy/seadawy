@@ -16,9 +16,6 @@ Welcome to my GitHub profile! I'm a PHP & Laravel developer at SpaceSecurity, wi
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seadawy&layout=donut&theme=radical" height=200 align="center"  alt="Top Languages" />
   </a>
-  <a href="#">
-    <img src="https://media.tenor.com/X3jJ_r78JlcAAAAM/bobs-burger-tina-belcher.gif" height=200 width=198 align="center" alt="gif" /> 
-  </a>
 </p>
 
 ## 🛠 Skills
