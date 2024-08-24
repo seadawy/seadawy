@@ -9,9 +9,16 @@ Welcome to my GitHub profile! I'm a PHP & Laravel developer at SpaceSecurity, wi
 </p>
 
 <!-- GitHub Stats and Top Languages -->
-<p style="display: flex; align-items: center; justify-content: center; gap: 10px;"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=seadawy&show_icons=true&theme=radical" alt="Seadawy's GitHub stats" style="max-height:150px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seadawy&layout=donut&theme=radical" alt="Top Languages" style="max-height:150px;" /> 
+<p style="display: flex; align-items: center; justify-content: center"> 
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=seadawy&show_icons=true&theme=radical" height=200 align="center" alt="Seadawy's GitHub stats" />
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seadawy&layout=donut&theme=radical" height=200 align="center"  alt="Top Languages" />
+  </a>
+  <a href="#">
+    <img src="https://media.tenor.com/X3jJ_r78JlcAAAAM/bobs-burger-tina-belcher.gif" height=200 width=198 align="center" alt="gif" /> 
+  </a>
 </p>
 
 ## 🛠 Skills
