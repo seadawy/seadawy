@@ -47,5 +47,5 @@ Welcome to my GitHub profile! I'm a PHP & Laravel developer at SpaceSecurity, wi
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhonda-holmes) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seadawy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seadawyff/) 
+[![Twitter](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=google&logoColor=white)](seadawy6452@gmail.com)
