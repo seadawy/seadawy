@@ -48,4 +48,4 @@ Welcome to my GitHub profile! I'm a PHP & Laravel developer at SpaceSecurity, wi
 ## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seadawyff/) 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=google&logoColor=white)](mailto:seadawy6452@gmail.com)
+[![Gmail](https://img.shields.io/badge/seadawy6452@gmail.com-red?style=for-the-badge&logo=google&logoColor=white)](mailto:seadawy6452@gmail.com)
